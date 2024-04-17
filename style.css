@@ -41,6 +41,13 @@
            border-bottom: 6px solid var(--borda);
         }
 
-         #campo-senha{}
+         #campo-senha{
+           background-color: var(--fundo-senha);
+
+
+
+
+
+         }
 
         
