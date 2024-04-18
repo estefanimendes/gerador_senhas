@@ -113,11 +113,56 @@
               }
               
               .checbox{
+<<<<<<< HEAD
+                width: 20px;
+                height: 20px;
+                cursor: pointer;
+              }
+=======
                 width: 20px;
                 height: 20px;
                 cursor: ;
+>>>>>>> 8a22f5ff05c88edb01bef7c3109193f83d36dc1a
 
+<<<<<<< HEAD
+              .barra{
+                 background-color: var(--fundo-senha);
+                 height: 30px;
+                 width: 100%;
               }
+              ;forca{
+                 height: 30px;
+                 position: relative;
+                 bottom: 30px;
+              }
+              .fraca{
+                 width: 25%;
+                 background-color: #e71b32;   
+              }
+              .media{
+                background-color: #faf408;
+                width: 50%;
+              }
+              .forte{
+                background-color: #00ff85;
+                width: 100%;
+              }
+
+              .parametro-senha-texto{
+                display: flex;
+                justify-content: space-between;
+              }
+
+
+              @media  screen and (min-width: 768px) {
+                .parametro-coluna__senha{
+                  flex-direction: row;
+=======
+>>>>>>> 8a22f5ff05c88edb01bef7c3109193f83d36dc1a
+              }
+            }
+              
+              
 
 
 
