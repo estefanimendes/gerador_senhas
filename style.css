@@ -111,20 +111,14 @@
               label{
                 font-size: 20px;
               }
-              
-              .checbox{
-<<<<<<< HEAD
+            
                 width: 20px;
                 height: 20px;
                 cursor: pointer;
               }
-=======
                 width: 20px;
                 height: 20px;
                 cursor: ;
->>>>>>> 8a22f5ff05c88edb01bef7c3109193f83d36dc1a
-
-<<<<<<< HEAD
               .barra{
                  background-color: var(--fundo-senha);
                  height: 30px;
@@ -157,8 +151,6 @@
               @media  screen and (min-width: 768px) {
                 .parametro-coluna__senha{
                   flex-direction: row;
-=======
->>>>>>> 8a22f5ff05c88edb01bef7c3109193f83d36dc1a
               }
             }
               
