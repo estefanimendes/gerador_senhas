@@ -2,10 +2,10 @@
 
 :root{
     --branco: white;
-    --cor-de-fundo: #00162e;
-    --fundo-senha: #00244d;
+    --cor-de-fundo: #00162E;
+    --fundo-senha: #00244D;
     --fundo-texto: #001e40;
-    --borda: #0075ff;
+    --borda: #007FF;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
    }
@@ -86,7 +86,7 @@
                 margin: 0 auto;
               }
 
-              .parametro-senha__botoes{
+              .parametro-senha-botoes{
                  display: flex;
                  justify-content: center;
               }
@@ -112,19 +112,18 @@
                 font-size: 20px;
               }
             
-                width: 20px;
+               .checkbox{
+              width: 20px;
                 height: 20px;
                 cursor: pointer;
               }
-                width: 20px;
-                height: 20px;
-                cursor: ;
+               
               .barra{
                  background-color: var(--fundo-senha);
                  height: 30px;
                  width: 100%;
               }
-              ;forca{
+              .forca{
                  height: 30px;
                  position: relative;
                  bottom: 30px;
